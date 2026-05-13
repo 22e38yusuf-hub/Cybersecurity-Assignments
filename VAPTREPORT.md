@@ -5,11 +5,10 @@
 
 | | |
 |---|---|
-| **Prepared by** | Yusuf |
+| **Prepared by** | Yusuf Ibrahim Imaz |
 | **Role** | Security Reviewer |
 | **Institution** | St. Joseph Engineering College (SJEC) |
-| **Date** | May 2025 |
-| **Classification** | CONFIDENTIAL |
+| **Date** | May 2026 |
 
 ---
 
